@@ -120,6 +120,9 @@ log - Bot Log [owner only]
 ```
 
 # How to deploy?
+
+https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fprihan19%2FMirrorX&template=https%3A%2F%2Fgithub.com%2Fprihan19%2FMirrorX
+
 Deploying is pretty much straight forward and is divided into several steps as follows:
 ## Installing requirements
 
